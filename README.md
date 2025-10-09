@@ -1,8 +1,8 @@
-📚 Vue Quiz App
+ Vue Quiz App
 
    This is a simple Quiz Application built using Vue 3 with the Composition API. The app allows users to select from three predefined quizzes, each containing a set of questions. After completing a quiz, the user receives a result based on how many correct answers they selected.
 
-✨ Features
+ Features
 
    Built with Vue 3 + Composition API
 
@@ -14,7 +14,7 @@
 
    Final result displayed based on correct answers
 
-🔧 Tech Stack
+ Tech Stack
 
    Vue 3
 
@@ -22,7 +22,7 @@
 
    HTML/CSS
 
-🚀 Getting Started
+ Getting Started
 
    Clone the repository, install dependencies, and run the app locally:
   
